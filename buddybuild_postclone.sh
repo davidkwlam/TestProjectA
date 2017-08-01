@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sudo gem install slather
+easy_install pip
