@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sudo gem install slather
+echo "export APP_VERSION=asdf" >> $HOME/.bash_profile
